@@ -283,8 +283,9 @@ p {
 }
 
 .post-img {
-  min-width: 381px;
-  height: 294px;
+  height: auto;
+  width: 381px;
+  aspect-ratio: 1.294;
   object-fit: cover;
   object-position: center;
 }
