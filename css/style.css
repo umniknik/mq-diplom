@@ -937,11 +937,11 @@ p {
     font-size: 1rem;
     letter-spacing: 0.05rem;
   }
-  
+
   .last-posts {
     padding-bottom: 23px;
   }
-  
+
   .last-posts-img {
     flex-shrink: 0;
     max-width: none;
@@ -994,11 +994,11 @@ p {
   .topics-sidebar-title {
     padding-bottom: 7%;
   }
-  
+
   .topics-sidebar-link {
     font-size: 0.94rem;
-	}
-	
+  }
+
   .topics-sidebar-sup {
     font-size: 0.81rem;
   }
@@ -1017,7 +1017,7 @@ p {
     width: 100%;
     margin-bottom: 8%;
   }
-	
+
   .products-preview {
     height: auto;
     width: 87%;
@@ -1035,11 +1035,10 @@ p {
   .products-text {
     letter-spacing: 0.03rem;
   }
-  
   .products-shop {
     margin-top: 24px;
   }
-	
+
   .products-in-shop {
     width: 49%;
     letter-spacing: 0.03rem;
@@ -1051,9 +1050,9 @@ p {
     height: 90px;
   }
 
-   .socials-item {
-     margin-left: 4px;
-   }
+  .socials-item {
+    margin-left: 4px;
+  }
 
   .copyright {
     margin: 13% 0;
