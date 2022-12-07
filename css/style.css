@@ -285,7 +285,7 @@ p {
 .post-img {
   height: auto;
   width: 381px;
-  aspect-ratio: 1.294;
+  aspect-ratio: 1.294 / 1;
   object-fit: cover;
   object-position: center;
 }
@@ -699,7 +699,7 @@ p {
   background-image: url(../svg/form-x.svg);
   width: 18px;
   height: auto;
-  aspect-ratio: 1;
+  aspect-ratio: 1 / 1;
   top: -28px;
   right: 0;
   background-size: cover;
@@ -750,7 +750,7 @@ p {
   margin: 0 4px 0 -2px;
   width: 16px;
   height: auto;
-  aspect-ratio: 1;
+  aspect-ratio: 1 / 1;
   background-image: url(../svg/form-empty-circle.svg);
   background-repeat: no-repeat;
   background-position: center;
@@ -909,7 +909,7 @@ p {
   .post-img {
     width: 100%;
     height: auto;
-    aspect-ratio: 1.3;
+    aspect-ratio: 1.3 / 1;
     background: antiquewhite;
   }
 
@@ -956,7 +956,7 @@ p {
 
   .products-preview {
     height: auto;
-    aspect-ratio: 1.3;
+    aspect-ratio: 1.3 / 1;
     background: antiquewhite;
     width: 86%;
   }
@@ -1133,7 +1133,7 @@ p {
     max-width: none;
     width: 21.2%;
     height: auto;
-    aspect-ratio: 1;
+    aspect-ratio: 1 / 1;
   }
 
   .last-posts-header {
@@ -1216,7 +1216,7 @@ p {
   .products-preview {
     height: auto;
     width: 85%;
-    aspect-ratio: 1;
+    aspect-ratio: 1 / 1;
   }
 
   .products-description {
@@ -1291,7 +1291,7 @@ p {
   }
 
   .popup-textarea {
-    aspect-ratio: 2.2;
+    aspect-ratio: 2.2 / 1;
     height: auto;
   }
 
