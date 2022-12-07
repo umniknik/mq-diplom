@@ -1128,7 +1128,11 @@ p {
     font-size: 1rem;
     letter-spacing: 0.05rem;
   }
-
+  
+  .last-posts {
+    padding-bottom: 23px;
+  }
+  
   .last-posts-img {
     flex-shrink: 0;
     max-width: none;
