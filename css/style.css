@@ -1043,8 +1043,8 @@ p {
   }
 
   .trends-header {
-    font-size: 1rem;
-    line-height: 1rem;
+    font-size: 1.06rem;
+    line-height: 0.87rem;
     margin-bottom: 7%;
   }
 
@@ -1052,11 +1052,11 @@ p {
     width: 100%;
     min-height: 245px;
     padding: 0% 4% 5%;
-    margin-bottom: 1px;
+    margin-bottom: 3px;
   }
 
   .trends-description {
-    padding: 8% 6%;
+    padding: 7% 6% 8%;
   }
 
   .trends-category-item-link {
