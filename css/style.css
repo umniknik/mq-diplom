@@ -285,7 +285,7 @@ p {
 .post-img {
   height: auto;
   width: 381px;
-  aspect-ratio: 1.294;
+  aspect-ratio: 1.294 / 1;
   object-fit: cover;
   object-position: center;
 }
