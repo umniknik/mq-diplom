@@ -1021,8 +1021,9 @@ p {
 
   .logo-link {
     margin: 62% auto 0;
-    width: 80%;
+    width: 84%;
     display: block;
+    padding-left: 3%;
   }
 
   .menu-button {
