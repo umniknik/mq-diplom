@@ -1172,7 +1172,7 @@ p {
   }
 
   .sidebar-widget:nth-child(n + 2) {
-    margin-top: 11%;
+    margin-top: 11.2%;
   }
 
   .field-email {
@@ -1198,9 +1198,17 @@ p {
   .topics-sidebar-title {
     padding-bottom: 7%;
   }
+  
+  .topics-sidebar-link {
+    font-size: 0.94rem;
+	}
+	
+  .topics-sidebar-sup {
+    font-size: 0.81rem;
+  }
 
   .topics-sidebar-item {
-    padding-bottom: 7.5%;
+    padding-bottom: 7.36%;
   }
 
   .products-header {
