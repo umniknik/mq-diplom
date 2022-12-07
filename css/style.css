@@ -1225,17 +1225,17 @@ p {
     width: 100%;
     margin-bottom: 8%;
   }
-
+	
   .products-preview {
     height: auto;
-    width: 85%;
-    aspect-ratio: 1 / 1;
+    width: 87%;
+    aspect-ratio: 1.02 / 1;
   }
 
   .products-description {
     margin-top: -9%;
     padding-right: 7%;
-    padding-bottom: 8%;
+    padding-bottom: 26px;
   }
 
   .products-title {
@@ -1247,6 +1247,12 @@ p {
     letter-spacing: 0.03rem;
   }
 
+  .products-shop {
+   display: flex;
+   justify-content: space-between;
+   margin-top: 24px;
+  }
+	
   .products-in-shop {
     width: 49%;
     letter-spacing: 0.03rem;
